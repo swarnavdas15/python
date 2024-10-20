@@ -1,6 +1,7 @@
 #THIS IS CALCULATOR PROGRAM 
 #day3
 #Intro to user
+print("..........................CALCULATOR..........................")
 print("Hey ! \nThis is the calculator where you can do \nAddition, Substraction, Multiplication ,Division ,Modulo.  ")
 
 #Taking input from user
@@ -22,7 +23,7 @@ elif(oppo=="*"):
 
 elif(oppo=="/"):
        print("Divisionon of entered number is....\n ", n, "/", m, "=" , n/m )
-        
+
 
 elif(oppo=="%"):
        print("Modulo of entered number is....\n ", n, "%", m, "=" , n%m )
