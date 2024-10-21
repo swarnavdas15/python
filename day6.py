@@ -13,7 +13,7 @@ time=t.strftime('%H:%M %p')
 H=int(t.strftime('%H'))
 
 #Greeting user with a message
-if (H>0) & (H<12):
+if (H>=6) & (H<12):
     print("GOOD MORNING SIR! \nItS->", end=" ")
     print(time , "\n HAVE A GOOD DAY AHEAD !")
 elif(H>=12) & (H<16):
