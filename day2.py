@@ -1,5 +1,5 @@
 #THIS IS CALCULATOR PROGRAM 
-#day3
+#day2
 #Intro to user
 print("Hey ! \nThis is the calculator where you can do \nAddition, Substraction, Multiplication ,Division ,Modulo.  ")
 
